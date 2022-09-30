@@ -9,4 +9,4 @@ To run:
 
 Reason for choose the GNU License :
 
-Most software and other practical works have licences that restrict your ability to share and modify the works. In contrast, the GNU General Public License is designed to ensure that you are free to distribute and alter any and all versions of a programme, ensuring that it is always available as free software to all users. The GNU General Public License is used by the Free Software Foundation for the majority of their software; 
+Most software and other practical works have licences that restrict your ability to share and modify the works. In contrast, the GNU General Public License is designed to ensure that you are free to distribute and alter any and all versions of a programme, ensuring that it is always available as free software to all users. The GNU General Public License is used by the Free Software Foundation for the majority of their software.
